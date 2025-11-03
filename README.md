@@ -1,0 +1,2 @@
+# cnn_pistachio_project
+Dankook_Software_3-2_DeepLearning_CNN_Application_Project: Pistachio Classification Model
